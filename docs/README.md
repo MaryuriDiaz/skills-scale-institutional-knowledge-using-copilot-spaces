@@ -27,3 +27,16 @@ This system is designed to ensure clarity, accountability, and continuous improv
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+### OctoAcme Project Management Processes
+
+This README serves as a centralized overview of the project management processes utilized by OctoAcme. It links to all major documentation for easy reference.
+
+#### Documentation Links:
+
+- [Project Initiation](link-to-initiating-docs)
+- [Project Planning](link-to-planning-docs)
+- [Execution](link-to-execution-docs)
+- [Monitoring](link-to-monitoring-docs)
+- [Closure](link-to-closure-docs)
+
+For more detailed information, please refer to the respective links above.
